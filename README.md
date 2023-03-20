@@ -1,0 +1,1 @@
+# geradorDe-ImagensRondomicas
